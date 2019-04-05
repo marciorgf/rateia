@@ -1,0 +1,7 @@
+.navbar-brand{
+    font-size: 2em;
+}
+
+.navbar-light .navbar-brand{
+    color: purple;
+}
