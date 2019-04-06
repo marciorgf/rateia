@@ -1,7 +1,19 @@
+header{
+    box-shadow: 0px 5px 8px #c6c6d1;
+}
+
+body{
+    background-color: rgba(248, 239, 212, 0.438);
+}
 .navbar-brand{
     font-size: 2em;
 }
 
 .navbar-light .navbar-brand{
     color: purple;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+    margin-bottom: 0.5em;
+    padding: 1em;
 }
